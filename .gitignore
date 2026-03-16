@@ -1,0 +1,16 @@
+# Dossier de compilation (très lourd et inutile sur GitHub)
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Fichiers d'IntelliJ (tes réglages personnels)
+.idea/
+*.iml
+*.iws
+out/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers d'aide de Spring Boot
+.help.md
