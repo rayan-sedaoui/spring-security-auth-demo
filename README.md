@@ -25,6 +25,23 @@ Tu peux te connecter avec les comptes suivants :
 | **Admin** | `admin` | `1234` |
 | **Utilisateur** | `user` | `1111` |
 
+## Aperçu de l'application
+
+<img width="329" height="269" alt="Image" src="https://github.com/user-attachments/assets/571fb8de-972d-41f8-8620-6c3f253fdffd" />
+
+<img width="368" height="179" alt="Image" src="https://github.com/user-attachments/assets/74a26f74-9bed-4b7b-98ec-d5d65c5420e9" />
+
+<img width="368" height="140" alt="Image" src="https://github.com/user-attachments/assets/5b922ed8-8e52-4c92-8514-b197b6320cf4" />
+
+
+## Architecture de  l'application
+
+<img width="279" height="485" alt="Image" src="https://github.com/user-attachments/assets/f1a11300-943f-4850-ba9f-c395a5cd38e4" />
+
+## Test de SpringSecurityDemoApplication
+
+
+
 ## 📦 Installation
 1. Clone le projet : `git clone https://github.com/rayan-sedaoui/spring-security-auth-demo.git`
 2. Importe le projet dans ton IDE (IntelliJ IDEA conseillé).
