@@ -40,7 +40,7 @@ Tu peux te connecter avec les comptes suivants :
 
 ## Test de SpringSecurityDemoApplication
 
-
+https://github.com/user-attachments/assets/1d92417a-df4f-44e6-a1a7-48781ea479e5
 
 ## 📦 Installation
 1. Clone le projet : `git clone https://github.com/rayan-sedaoui/spring-security-auth-demo.git`
